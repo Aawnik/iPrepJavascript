@@ -1,8 +1,17 @@
+---
+title: JavaScript Interview Preparation
+layout: default
+---
+
 # JavaScript Interview Preparation
 
-## Table of Contents
+Welcome to this comprehensive JavaScript and React interview preparation guide!
 
-### JavaScript Fundamentals
+## 📚 What You'll Find Here
+
+This repository contains detailed explanations, examples, and practice materials for:
+
+### JavaScript Topics
 - [Variables & Data Types](01_javascript/01_variable&Datatypes.md)
 - [Operators](01_javascript/02_operators.md)
 - [Control Structures](01_javascript/03_controlStructures.md)
@@ -22,6 +31,10 @@
 - [This Keyword](01_javascript/17_this.md)
 - [Async Programming](01_javascript/18_AsyncProgramming.md)
 
-### React
+### React Topics
 - [React Introduction](02_React/01_reactIntro.md)
 - [JSX Basics](02_React/02_jsxBasics.md)
+
+---
+
+Happy learning! 🎯

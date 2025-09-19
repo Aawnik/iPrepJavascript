@@ -1,0 +1,32 @@
+# GitHub Pages Configuration
+title: "JavaScript Interview Preparation"
+description: "A comprehensive guide for JavaScript and React interview preparation"
+theme: minima
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+
+# Include markdown files
+include:
+  - "*.md"
+  - "**/*.md"
+
+# Exclude unnecessary files
+exclude:
+  - "README.md"
+  - "vendor/"
+  - "node_modules/"
+
+# Enable plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# Plugin settings
+relative_links:
+  enabled: true
+  collections: true
+
+optional_front_matter:
+  enabled: true

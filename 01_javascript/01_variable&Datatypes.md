@@ -1,3 +1,8 @@
+---
+title: "Variables & Data Types"
+layout: default
+---
+
 ## Variables
 - variables are the containers to store the data
 - It can be declared using `var`,`let` or `const`.
