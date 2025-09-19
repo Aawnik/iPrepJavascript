@@ -1,2 +1,2 @@
-[javascript](01_javascript)
-[React](02_React)
+- [javascript](01_javascript)
+- [React](02_React)
